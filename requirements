@@ -1,0 +1,19 @@
+beautifulsoup4==4.11.1
+bs4==0.0.1
+plotly==5.14.1
+requests==2.31.0
+requests-futures==1.0.1
+requests-html==0.10.0
+scikit-learn==1.0
+seaborn==0.12.1
+sklearn==0.0
+streamlit==1.28.0
+streamlit-lottie==0.0.3
+streamlit-option-menu==0.3.6
+streamlit-webrtc==0.45.0
+ta==0.10.2
+TA-Lib @ file:///C:/Users/pranay/Desktop/New%20folder/main%20project/TA_Lib-0.4.24-cp39-cp39-win_amd64.whl#sha256=d4205d243686ef91fb8167c82c56b6c2ed088b052fb76adf5734f38dccefc22a
+yahoo-fin==0.8.9.1
+yahoo-finance==1.4.0
+yahooquery==2.3.3
+yfinance==0.2.33
