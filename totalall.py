@@ -32,7 +32,8 @@ data = data.dropna()
 data.reset_index(drop=True, inplace=True)
 
 #=================================================================================================================
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="InvestAI",layout="wide")
+
 
 # Load Lottie animation
 # Define a function to load Lottie animation
